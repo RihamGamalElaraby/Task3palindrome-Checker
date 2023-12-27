@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703700016 source:e:\techno hacks codes\task3_palindromechecker\main.c
+	<stdio.h>
+	<string.h>
+
